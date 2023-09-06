@@ -49,10 +49,10 @@ class S5Commander:
         # subprocess.run(command.split(), env=self.env, capture_output=True)
         raise NotImplementedError
 
-    def rm(self, path: str = "") -> None:
+    def rm(self, path: str) -> None:
         raise NotImplementedError
 
-    def mv(self, from_path: str = "", to_path: str) -> None:
+    def mv(self, from_path: str, to_path: str) -> None:
         raise NotImplementedError
 
     def mb(self) -> None:
