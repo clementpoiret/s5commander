@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "s5commander"
-version = "0.0.1"
+version = "0.0.1.dev0"
 description = ""
 authors = ["Clément POIRET <poiret.clement@outlook.fr>"]
 readme = "README.md"
