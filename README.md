@@ -122,6 +122,8 @@ pytest
 ## 🗺 Roadmap
 
 > - [X] `list buckets and objects`
+> - [X] `download method`
+> - [X] `upload method`
 > - [ ] `copy objects`
 > - [ ] `remove objects`
 > - [ ] `move/rename objects`
